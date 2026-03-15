@@ -49,3 +49,4 @@
 2026-03-15 - Phase 5: Unit 2 complete. All tests pass (22/22). Code review PASS.
 2026-03-15 - Phase 5: Unit 3 complete. All tests pass (31/31). Code review PASS.
 2026-03-15 - Phase 5: Unit 4 complete. All tests pass (35/35). Code review PASS. All v1 units done.
+2026-03-15 - v1 MVP deployed to Vercel: https://citypulse-taupe.vercel.app/ — GitHub repo: https://github.com/ddgnani/citypulse
