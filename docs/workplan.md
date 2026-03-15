@@ -18,9 +18,9 @@
   - `src/config/cities.ts`
   - `tsconfig.json`
 - **Test Plan**:
-  - [ ] Next.js dev server starts without errors
-  - [ ] Tailwind CSS classes render correctly
-  - [ ] City config exports an array of 5 cities with correct fields (name, country, timezone, lat, lon, currencyCode, currencyName)
+  - [x] Next.js dev server starts without errors
+  - [x] Tailwind CSS classes render correctly
+  - [x] City config exports an array of 5 cities with correct fields (name, country, timezone, lat, lon, currencyCode, currencyName)
 
 ---
 

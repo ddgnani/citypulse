@@ -30,7 +30,7 @@
 
 | Unit | Name | Status |
 |------|------|--------|
-| 1 | Project Setup & City Configuration | pending |
+| 1 | Project Setup & City Configuration | complete |
 | 2 | Backend API Route | pending |
 | 3 | Dashboard UI — CityCard Component | pending |
 | 4 | Auto-Refresh & Polish | pending |
@@ -45,3 +45,4 @@
 2026-03-15 - Phase 3: docs/architecture.md approved. has_ui set to true. Moving to Phase 4.
 2026-03-15 - Phase 4: docs/workplan.md approved. Requirements coverage validated (PASS). Moving to Phase 5.
 2026-03-15 - Phase 5: All planning complete. Unit 1 not yet started. Session paused.
+2026-03-15 - Phase 5: Unit 1 complete. All tests pass (9/9). Code review PASS.
