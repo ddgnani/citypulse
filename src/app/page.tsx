@@ -1,8 +1,12 @@
+import Dashboard from "@/components/Dashboard";
+
 export default function Home() {
   return (
-    <main className="min-h-screen p-4">
-      <h1 className="text-2xl font-bold text-center">CityPulse</h1>
-      <p className="text-center text-gray-500 mt-2">Dashboard coming in Unit 3</p>
+    <main className="mx-auto min-h-screen max-w-5xl px-4 py-8">
+      <h1 className="mb-6 text-center text-2xl font-bold text-gray-900 dark:text-gray-100">
+        CityPulse
+      </h1>
+      <Dashboard />
     </main>
   );
 }

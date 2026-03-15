@@ -57,11 +57,11 @@
   - `src/components/CityCard.tsx`
   - `src/components/Dashboard.tsx`
 - **Test Plan**:
-  - [ ] Dashboard page renders without errors
-  - [ ] All 5 city cards are displayed
-  - [ ] Each card shows city name, country, local time, temperature, currency name, and exchange rate
-  - [ ] Layout is responsive — single column on mobile (< 640px), multi-column on larger screens
-  - [ ] Loading state is displayed while data is being fetched
+  - [x] Dashboard page renders without errors
+  - [x] All 5 city cards are displayed
+  - [x] Each card shows city name, country, local time, temperature, currency name, and exchange rate
+  - [x] Layout is responsive — single column on mobile (< 640px), multi-column on larger screens
+  - [x] Loading state is displayed while data is being fetched
 
 ---
 
