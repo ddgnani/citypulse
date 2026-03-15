@@ -1,6 +1,6 @@
 # Project State
 
-## Current Phase: 4 - Work Plan
+## Current Phase: 5 - Execution
 ## Last Updated: 2026-03-15
 
 ---
@@ -12,8 +12,8 @@
 | 1. Project Vision | `docs/project.md` | COMPLETE | ✅ |
 | 2. Requirements | `docs/requirements.md` | COMPLETE | ✅ |
 | 3. Architecture | `docs/architecture.md` | COMPLETE | ✅ |
-| 4. Work Plan | `docs/workplan.md` | IN PROGRESS | ❌ |
-| 5. Execution | (units added after Phase 4) | NOT STARTED | — |
+| 4. Work Plan | `docs/workplan.md` | COMPLETE | ✅ |
+| 5. Execution | v1 Units 1–4 | IN PROGRESS | — |
 
 ---
 
@@ -27,7 +27,13 @@
 ---
 
 ## Execution Progress (Phase 5)
-<!-- Populated after workplan.md is approved -->
+
+| Unit | Name | Status |
+|------|------|--------|
+| 1 | Project Setup & City Configuration | pending |
+| 2 | Backend API Route | pending |
+| 3 | Dashboard UI — CityCard Component | pending |
+| 4 | Auto-Refresh & Polish | pending |
 
 ---
 
@@ -37,3 +43,4 @@
 2026-03-15 - Phase 1: docs/project.md approved. Moving to Phase 2.
 2026-03-15 - Phase 2: docs/requirements.md approved. Moving to Phase 3.
 2026-03-15 - Phase 3: docs/architecture.md approved. has_ui set to true. Moving to Phase 4.
+2026-03-15 - Phase 4: docs/workplan.md approved. Requirements coverage validated (PASS). Moving to Phase 5.
