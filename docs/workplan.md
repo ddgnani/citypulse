@@ -36,13 +36,13 @@
   - `src/lib/currency.ts` (ExchangeRate-API fetch helper)
   - `src/lib/time.ts` (Intl.DateTimeFormat helper)
 - **Test Plan**:
-  - [ ] `/api/cities` returns 200 with valid JSON
-  - [ ] Response contains exactly 5 cities
-  - [ ] Each city has name, country, localTime, temperature, currencyName, exchangeRate fields
-  - [ ] Weather helper returns numeric temperature for valid coordinates
-  - [ ] Currency helper returns exchange rates for USD, INR, GBP, JPY, SGD
-  - [ ] Time helper returns formatted time string for each timezone
-  - [ ] API handles external API failures gracefully (returns error or partial data)
+  - [x] `/api/cities` returns 200 with valid JSON
+  - [x] Response contains exactly 5 cities
+  - [x] Each city has name, country, localTime, temperature, currencyName, exchangeRate fields
+  - [x] Weather helper returns numeric temperature for valid coordinates
+  - [x] Currency helper returns exchange rates for USD, INR, GBP, JPY, SGD
+  - [x] Time helper returns formatted time string for each timezone
+  - [x] API handles external API failures gracefully (returns error or partial data)
 
 ---
 
