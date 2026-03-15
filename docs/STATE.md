@@ -13,7 +13,7 @@
 | 2. Requirements | `docs/requirements.md` | COMPLETE | ✅ |
 | 3. Architecture | `docs/architecture.md` | COMPLETE | ✅ |
 | 4. Work Plan | `docs/workplan.md` | COMPLETE | ✅ |
-| 5. Execution | v1 Units 1–4 | IN PROGRESS | — |
+| 5. Execution | v1 Units 1–4 | v1 COMPLETE | ✅ |
 
 ---
 
