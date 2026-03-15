@@ -33,7 +33,7 @@
 | 1 | Project Setup & City Configuration | complete |
 | 2 | Backend API Route | complete |
 | 3 | Dashboard UI — CityCard Component | complete |
-| 4 | Auto-Refresh & Polish | pending |
+| 4 | Auto-Refresh & Polish | complete |
 
 ---
 
@@ -48,3 +48,4 @@
 2026-03-15 - Phase 5: Unit 1 complete. All tests pass (9/9). Code review PASS.
 2026-03-15 - Phase 5: Unit 2 complete. All tests pass (22/22). Code review PASS.
 2026-03-15 - Phase 5: Unit 3 complete. All tests pass (31/31). Code review PASS.
+2026-03-15 - Phase 5: Unit 4 complete. All tests pass (35/35). Code review PASS. All v1 units done.

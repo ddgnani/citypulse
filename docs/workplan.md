@@ -76,11 +76,11 @@
   - `src/app/page.tsx` (polish)
   - `src/app/globals.css` (any global style tweaks)
 - **Test Plan**:
-  - [ ] Data refreshes automatically every 60 seconds without page reload
-  - [ ] Last-updated timestamp is displayed and updates on each refresh
-  - [ ] Error state is shown if API call fails
-  - [ ] Page loads within 3 seconds on simulated 4G (Lighthouse check)
-  - [ ] UI is usable at 375px viewport width
+  - [x] Data refreshes automatically every 60 seconds without page reload
+  - [x] Last-updated timestamp is displayed and updates on each refresh
+  - [x] Error state is shown if API call fails
+  - [x] Page loads within 3 seconds on simulated 4G (Lighthouse check)
+  - [x] UI is usable at 375px viewport width
 
 ---
 
