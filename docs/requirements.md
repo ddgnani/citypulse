@@ -17,11 +17,11 @@
 - NFR-4: Mobile-first responsive design — usable on screens as small as 320px wide
 
 ### Acceptance Criteria
-- [ ] Dashboard loads and displays all 5 cities with correct local time, temperature, and currency info
-- [ ] Data refreshes automatically every 60 seconds without page reload
-- [ ] Layout is usable and readable on a mobile phone (375px viewport)
-- [ ] All APIs used are free tier with no paid credentials required
-- [ ] App deploys successfully to Vercel free tier
+- [x] Dashboard loads and displays all 5 cities with correct local time, temperature, and currency info
+- [x] Data refreshes automatically every 60 seconds without page reload
+- [x] Layout is usable and readable on a mobile phone (375px viewport)
+- [x] All APIs used are free tier with no paid credentials required
+- [x] App deploys successfully to Vercel free tier
 
 ---
 
